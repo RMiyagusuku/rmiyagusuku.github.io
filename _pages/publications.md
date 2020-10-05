@@ -7,7 +7,7 @@ author_profile: true
 
 <style type="text/css">
     
-.note_red {
+.bibbase_note {
     color: red;
     font-weight: bold;
 }
