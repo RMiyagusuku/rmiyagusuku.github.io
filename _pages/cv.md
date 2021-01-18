@@ -28,7 +28,9 @@ email: miyagusuku at cc.utusunomiya-u.ac.jp <br/>
 
 ### Honors and Awards
 ---
-**2019 | Nakanoshima Challenge and Nakanoshima Extra Challenge** <br/>
+**Jan 2021 | Best Paper Award at the 2021 IEEE/SICE International Symposium on System Integration** <br/>
+Our paper *Distance Invariant Sparse Autoencoder for Wireless Signal Strength Mapping* was awarded Best Paper Award at the 2021 IEEE/SICE International Symposium on System Integration (SII2021). <br/>
+**Dec 2019 | Nakanoshima Challenge and Nakanoshima Extra Challenge** <br/>
 Public experiment for robotic technology development in real environments. <br/>
 Single team to complete all challenges. <br/>
 **May 2019 | IEEE RAS JJC Young Award** <br/>
