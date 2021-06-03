@@ -72,7 +72,7 @@ IEEE Robotics and Automation Society (IEEE RAS) <br/>
   Applied Field Robotics Through Machine Learning
 * 2019 IEEE 8th Global Conference on Consumer Electronics
 
-**Technical Program Committee member**
+**Technical Program Committee Member**
 * 2021: International Conference on Indoor Positioning and Indoor Navigation (IPIN2021)
 
 **Associate Editor** <br/>
