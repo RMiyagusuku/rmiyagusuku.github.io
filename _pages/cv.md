@@ -77,7 +77,7 @@ IEEE Robotics and Automation Society (IEEE RAS) <br/>
 
 **Associate Editor** <br/>
 * 2019 - 2021: IEEE International Conference on Robotics and Automation (ICRA)
-* 2021 - 2022: IEEE/SICE International Symposium on System Integration (SII)
+* 2020 - 2021: IEEE/SICE International Symposium on System Integration (SII)
 * 2020: IEEE/RSJ International Conference on Robots and Systems (IROS)
 
 ### Languages
