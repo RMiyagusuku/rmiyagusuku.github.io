@@ -26,6 +26,9 @@ email: miyagusuku at cc.utusunomiya-u.ac.jp <br/>
 **Apr 2013 - Sep 2018** | Research Student, Japan's Ministry of Education, Culture, Sports, Science and Technology <br/>
 **Mar 2011 - Mar 2013** | Researcher, Peru's National Institute for Telecommunications Research and Training <br/>
 
+### Qualifications
+**Oct 2019 - current** | Investigador RENACYT (Grupo Carlos Monge Medrano - Nivel III), Consejo Nacional de Ciencia y Tecnología e Innovación Tecnológica: Lima, PE
+
 ### Honors and Awards
 ---
 **Jan 2021 | Best Paper Award at the 2021 IEEE/SICE International Symposium on System Integration** <br/>
@@ -48,9 +51,14 @@ Scholarship to participate in the 2nd Cansat Leader Training Program at Nihon Un
 
 ### Funding
 ---
+**Apr 2021 - Mar 2024 | Domain adaptation and long-term maintenance of invisible maps to enable low-cost autonomous navigation of robots in urban environments** <br/>
+Japan Society for the Promotion of Science <br/>
+Grant-in-Aid for Scientific Research Young Researchers | [Grant Number: 21K14121](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K14121/)<br/>
+Researcher: Renato Miyagusuku (PI)<br/>
+
 **Oct 2019 - Mar 2021 | Reseach and Development for solving regional issues through data collection and utilization: Invisible maps for robust last-mile delivery in crowded environments by small autonomous robots** <br/>
-Japan's National Institute of Information and Communications Technology <br/>
-Researchers: Koichi Ozaki (principal), Satoshi Hoshino, Renato Miyagusuku <br/>
+Japan's National Institute of Information and Communications Technology | [Grant Number: 21409](https://www.nict.go.jp/collabo/commission/k_21409.html)<br/>
+Researchers: Koichi Ozaki (PI), Satoshi Hoshino, Renato Miyagusuku <br/>
 
 ### Professional Memberships
 ---
@@ -64,10 +72,12 @@ IEEE Robotics and Automation Society (IEEE RAS) <br/>
   Applied Field Robotics Through Machine Learning
 * 2019 IEEE 8th Global Conference on Consumer Electronics
 
+**Technical Program Committee member**
+* 2021: International Conference on Indoor Positioning and Indoor Navigation (IPIN2021)
 
 **Associate Editor** <br/>
 * 2019 - 2021: IEEE International Conference on Robotics and Automation (ICRA)
-* 2021: IEEE/SICE International Symposium on System Integration (SII)
+* 2021 - 2022: IEEE/SICE International Symposium on System Integration (SII)
 * 2020: IEEE/RSJ International Conference on Robots and Systems (IROS)
 
 ### Languages
