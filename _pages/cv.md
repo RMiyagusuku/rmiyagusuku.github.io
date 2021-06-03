@@ -27,7 +27,7 @@ email: miyagusuku at cc.utusunomiya-u.ac.jp <br/>
 **Mar 2011 - Mar 2013** | Researcher, Peru's National Institute for Telecommunications Research and Training <br/>
 
 ### Qualifications
-**Oct 2019 - current** | Investigador RENACYT (Grupo Carlos Monge Medrano - Nivel III), Consejo Nacional de Ciencia y Tecnología e Innovación Tecnológica: Lima, PE
+**Oct 2019** | Investigador RENACYT (Grupo Carlos Monge Medrano - Nivel III), Consejo Nacional de Ciencia y Tecnología e Innovación Tecnológica: Lima, PE
 
 ### Honors and Awards
 ---
