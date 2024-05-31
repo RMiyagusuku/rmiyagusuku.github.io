@@ -32,7 +32,7 @@ email: miyagusuku at cc.utusunomiya-u.ac.jp <br/>
 ---
 **Oct 2022 | FY2022 Young Researcher Encouragement Award** <br/>
 Utsunomiya University <br/>
-Encouramente Awaurd for young researchers belonging to Utsunomiya University <br/>
+Encouramente Award for young researchers belonging to Utsunomiya University <br/>
 **Jan 2021 | Best Paper Award at the 2021 IEEE/SICE International Symposium on System Integration** <br/>
 Our paper *Distance Invariant Sparse Autoencoder for Wireless Signal Strength Mapping* was awarded Best Paper Award at the 2021 IEEE/SICE International Symposium on System Integration (SII2021). <br/>
 **Dec 2019 | Nakanoshima Challenge and Nakanoshima Extra Challenge** <br/>
@@ -53,7 +53,11 @@ Scholarship to participate in the 2nd Cansat Leader Training Program at Nihon Un
 
 ### Funding
 ---
-**Apr 2021 - Mar 2024 | Domain adaptation and long-term maintenance of invisible maps to enable low-cost autonomous navigation of robots in urban environments** <br/>
+**Apr 2023 - Feb 2024 | Development of a robot for measuring partial discharge in substation equipment** <br/>
+Joint Research | [Project Number: KK222093]<br/>
+Researchers: Renato Miyagusuku (PI), Koichi Ozaki<br/>
+
+**Apr 2021 - Mar 2025 | Domain adaptation and long-term maintenance of invisible maps to enable low-cost autonomous navigation of robots in urban environments** <br/>
 Japan Society for the Promotion of Science <br/>
 Grant-in-Aid for Scientific Research Young Researchers | [Grant Number: 21K14121](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K14121/)<br/>
 Researcher: Renato Miyagusuku (PI)<br/>
