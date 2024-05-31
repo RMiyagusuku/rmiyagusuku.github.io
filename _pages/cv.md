@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-phone: +81-50-5238-8518 <br/>
 email: miyagusuku at cc.utusunomiya-u.ac.jp <br/>
 
 ### Education
@@ -31,6 +30,9 @@ email: miyagusuku at cc.utusunomiya-u.ac.jp <br/>
 
 ### Honors and Awards
 ---
+**Oct 2022 | FY2022 Young Researcher Encouragement Award** <br/>
+Utsunomiya University <br/>
+Encouramente Awaurd for young researchers belonging to Utsunomiya University <br/>
 **Jan 2021 | Best Paper Award at the 2021 IEEE/SICE International Symposium on System Integration** <br/>
 Our paper *Distance Invariant Sparse Autoencoder for Wireless Signal Strength Mapping* was awarded Best Paper Award at the 2021 IEEE/SICE International Symposium on System Integration (SII2021). <br/>
 **Dec 2019 | Nakanoshima Challenge and Nakanoshima Extra Challenge** <br/>
