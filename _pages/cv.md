@@ -54,7 +54,7 @@ Scholarship to participate in the 2nd Cansat Leader Training Program at Nihon Un
 ### Funding
 ---
 **Apr 2023 - Feb 2024 | Development of a robot for measuring partial discharge in substation equipment** <br/>
-Joint Research | [Project Number: KK222093]<br/>
+Joint Research | Project Number: KK222093<br/>
 Researchers: Renato Miyagusuku (PI), Koichi Ozaki<br/>
 
 **Apr 2021 - Mar 2025 | Domain adaptation and long-term maintenance of invisible maps to enable low-cost autonomous navigation of robots in urban environments** <br/>
