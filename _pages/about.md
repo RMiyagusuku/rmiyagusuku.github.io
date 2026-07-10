@@ -9,9 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant Professor at the [Instrumentation and Robotics Laboratory](https://www.ir.utsunomiya-u.ac.jp/), Utsunomiya University, working with Prof. Koichi Ozaki on robotics and robotic applications to agriculture. 
-
-I am also a visiting researcher at the University of Tokyo, working with Prof. Hajime Asama and Prof. Atsushi Yamashita at the [Service Robotics Laboratory](http://www.robot.t.u-tokyo.ac.jp/asamalab/en/). 
+I am an associate Professor at the [Instrumentation and Robotics Laboratory](https://www.ir.utsunomiya-u.ac.jp/), Utsunomiya University, working on robotics and robotic applications to agriculture, construction, and last-mile delivery. 
 
 My research interests lie in Robotics, Sensor Fusion and Machine Learning.
 
