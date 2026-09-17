@@ -19,8 +19,10 @@ email: miyagusuku at cc.utusunomiya-u.ac.jp <br/>
 
 ### Research and Work Experience
 ---
-**Apr 2019 - current** | Assistant Professor, Utsunomiya University <br/>
-**Apr 2019 - current** | Visiting Researcher, The University of Tokyo <br/>
+
+**Apr 2025 - current** | Associate Professor, Utsunomiya University <br/>
+**Apr 2019 - Mar 2025** | Assistant Professor, Utsunomiya University <br/>
+**Apr 2019 - Mar 2025** | Visiting Researcher, The University of Tokyo <br/>
 **Oct 2018 - Mar 2019** | Postdoctoral Fellow, The University of Tokyo <br/>
 **Apr 2013 - Sep 2018** | Research Student, Japan's Ministry of Education, Culture, Sports, Science and Technology <br/>
 **Mar 2011 - Mar 2013** | Researcher, Peru's National Institute for Telecommunications Research and Training <br/>
